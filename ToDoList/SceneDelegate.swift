@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  ToDoList
+//  TodoList
 //
-//  Created by longv on 19/11/2023.
+//  Created by longv on 20/11/2023.
 //
 
 import UIKit
